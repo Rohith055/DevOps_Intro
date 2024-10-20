@@ -1,0 +1,42 @@
+Essential Characters of DevOps 
+
+Here the Agility is the Goal
+
+>Smart Experimentation 
+
+>Moving in market 
+
+>with maximum velocity and minimum risk 
+
+>Gaining quick, valuable Insights 
+
+Agility Has Three Pillars
+
+DevOps --> Cultural Change, Automated Pipeline, Infrastructure as code, Immutable Infrastructure.
+
+Microservices --> Loose Coupling, Restful APIs, Designed To resist failures, test by breaking/fail fast.
+
+Containers  -->  Portablity, Developer Centric, Ecosystem enabler, Fast Startup. 
+
+"DevOps starts with learning how to work differently. It embraces cross-functional teams with openess, transparency, and respect as pillars."
+							- Tony Stafford, Shadow Soft.
+
+Application Evolution 
+
+Delivery -->Waterfall>Agile>DevOps.
+Archietecture --> Monoliths>SOA>Microservices.
+Infrastructure --> Physical Services>Virtual Machines> Containers.
+
+Dimensions of DevOps 
+
+Culture > Tools > Methods
+
+"Culture is the #1 success factor in DevOps. Buliding a culture of shared responsiblity, transparency, and faster feedback is the foundation of every high-performing DevOps team"
+							- Atlassian
+
+The Cultural Wheel 
+
+Greater Community > Knowledge and Stories > language > Traditions and Rituals > techniques & Rituals > Techniques & Skills > Tools & Projects > The Arts > Food and Drink > Values > Greater Community
+
+
+

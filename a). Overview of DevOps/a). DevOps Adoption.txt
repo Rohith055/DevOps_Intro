@@ -1,0 +1,42 @@
+DevOps Adoption
+
+>Different mindset 
+>Unlearn your current
+
+Definition of DevOps
+
+The Term "DevOps" is Development and Operations is an extension of agile development environments that aims to enhance the process of software delivery as a whole
+ 												- Patrick Debois 2009
+
+>Development and Operations engineers working together.
+
+>Following lean and agile principles.
+
+>Delivering software in a rapid and continous manner.
+________________________________________________________________________________
+
+DevOps Requires
+
+>A change in Culture.
+
+>A new Application Design.
+
+>Leveraging Automation
+
+>Programmable Platform
+_________________________________________________________________________________
+
+DevOps is Not?
+
+>Not Simply combining Development and Operations
+
+>Not a separate team
+
+>Not a tool
+
+>Not one size fits all
+
+>Not just about Automation.
+___________________________________________________________________________________
+
+

@@ -1,0 +1,69 @@
+WaterFall Development 
+
+Requirements
+	 		-> Design 	
+	 					-> Code
+	 							 -> Integration 
+	 							 				-> Test
+	 							 						-> Deploy
+
+Problems 
+
+No Provisions for changing the requirements
+
+no Idea if it works until the end 
+
+Each step ends with the new begining
+
+Mistakes found in later stages are more expensive to fix
+
+There is usually a long time between software releases.
+
+Teams work separately, unware of their impact on each other
+
+The people who know are deploying it into production
+
+_________________________________________________________________
+Extreme Programming :
+
+> In 1996 kent introduced the extreme programming.
+
+>based on an interactive approach to software development.
+
+> Intended to improve software quality and responsiveness to changing customer requirements.
+
+The Agile Manifesto :
+ 
+> Individuals and interactions over process and tools 
+
+> Working software over comprehensive documentation 
+
+> Customer collaboration over contract negotiation
+
+> Responding to change over following a plan.
+
+> That is, while there is value in this items on the right, we value the items on the left more.
+
+Agile Development:
+
+Track & Monitor -> Requirements -> Plan -> Design -> Develop -> Release -> Track & Monitor.
+
+History of DevOps:
+
+> 2007 - Patrick Debois - Recognized Dev and Ops worked ineffectively and not together.
+
+> 2008 - Andrew clay Shafer - Agile Conference 2008 BoF "Agile Infrastructure"
+
+> 2009 - John Allspaw - Velocity 2009 "10+ Deploys Per Day: Dev and Ops cooperation at Filckr"
+
+> 2009 - DevOpsDays - Patrick Debois started the first DevOps conference Ghent, Belgium, October 2009.
+
+> 2010 - Continuous Delivery  by Jez Humble and David Farley.
+
+> 2013 - The Phoenix Project - by Gene Kim, Kevin Behr and George Spafford.
+
+> 2015 - State of DevOps Report - from devOps Research and Assesment (DORA), founded Dr. Nicole Forsgren, Gene Kim, and Jez humble.
+
+> 2016 -  The DevOps Handbook - by Gene Kim, Jez Humble, Patrick Debois and John wills.
+
+> 2019 - devOpsDays - 40 events in 21 Countries are scheduled for 2019 (10 Years Later) Patrick Debois (Lead 2009 - 2015) Bridget Kromhout (lead 2015 - 2020)
