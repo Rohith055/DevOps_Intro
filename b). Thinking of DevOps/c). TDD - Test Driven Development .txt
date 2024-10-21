@@ -1,0 +1,91 @@
+Test Driven Development:
+
+"If it is worth building, it's not worth testing, why are you wasting your time working on it?"
+
+-Scott Ambler.
+
+> Test cases drive the design.
+
+> You would write the test cases first then you should code according to the test cases requirements.
+
+> This keeps you focused on the purposed of the code.
+
+> Code is of no use if your client can't call it.
+
+Why the Developers don't test?
+
+In developers POV:
+
+> I already Know my code works.
+
+> I don't write broken code.
+
+> I have no time.
+
+Basic TDD Workflow:
+
+RED  - Write a test case that fails.
+
+Green - Write the code make it pass.
+
+Refactor - Improve the code quality.
+
+Importance of TDD:
+
+> It saves time when developing.
+
+> You can code faster and with more confidence.
+
+> It ensures that future changes don't break your code.
+
+> In order to create a DevOps CI/CD pipeline, all testing must be automated.
+
+BDD - Behaviour Driven Development:
+
+> Describes the behaviour of the system from the outside.
+
+> Great for integration testing.
+
+> Uses a syntax both developers and stakeholders can easily understand.
+
+> BDD is ensures that you are building a right thing.
+
+Workflow of BDD:
+
+> Explore problem domain and describe the behaviour.
+
+> Document the behaviour using Gherkin Syntax.
+
+> Use BDD tools to run those scenarios.
+
+> Ine document that is both the specification and the tests.
+
+Gherkin:
+
+> Easy to read 
+ 
+> Given...When...Then...
+
+> Understandable by everyone.
+
+Gherkin Syntax
+
+- Given (Some Context)
+- When (Some event happens)
+- Then (Some testable outcome)
+- And (more context, events,or outcomes)
+
+benefits:
+
+> Improves Communication.
+
+> More Precise guidance.
+
+> Provides a common Syntax.
+
+> Self-documenting.
+
+> Higher code quality
+
+> Acceptance criteria for each user.
+

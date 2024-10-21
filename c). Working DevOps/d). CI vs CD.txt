@@ -1,0 +1,59 @@
+Continuous Integration vs Continuous Delivery
+
+> CI/CD is not one thing.
+
+> Continuous Integration(CI)
+  - Continuous Building, 
+  testing, and merging to master.
+
+> Continuous delivery (CD)
+  - Continuosly Deploying to a 
+  productio-like environment.
+
+Traditional Development:
+
+> Developers work in long-lived development branches.
+
+> Branches are periodically merged into a release.
+
+> Build and run periodically.
+
+> developers continue to add to the development branch.
+
+Continuous Integration:
+
+> Developers integrate code often.
+
+> Developers work in short-lived feature.
+
+> Each check-in is verified by an automated build.
+
+Changes are Kept small:
+
+> working in small batches.
+
+> Commit regularly.
+
+> Using pull requests
+
+Ci Automation:
+
+> Build and test every pull request.
+
+> Use CI tools that monitor Version control.
+
+> Tests should run after each build.
+
+> Never merge a pull request with failing tests.
+
+Benefits of CI:
+
+> Faster reaction times to changes.
+
+> Reduced code integration risk.
+
+> Higher Code quality.
+
+> The Code in version control works.
+
+> Master branch is always deployded.

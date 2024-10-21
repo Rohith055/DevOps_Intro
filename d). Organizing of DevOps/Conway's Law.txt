@@ -1,0 +1,27 @@
+Conway's Law 
+
+"Any organization that designs a system (defined broadly) will producw a design whose structure is a copy of the organization's communication structure."
+								- Melvin Conway, Datamation, 1968.
+
+Align teams with the business:
+
+> Each team has its own mission aligned with the business.
+
+> Teams have end-to-end responsiblity for what they build.
+
+> Teams should have a long term mission usually around a single business domain.
+
+
+DevOps is not a team or a job title:
+
+" The DevOps movement addresses the dysfunction that results from organizations composed of functional silos. Thus, creating another functional silo that sits between Dev and Ops is clearly a poor (and ironic) way to try and solve these problems. "
+
+						- jez Humble, The DevOps handbook.
+
+
+Bad Behaviour
+
+" Bad Behaviour arises when you abstract people away from the consequences of their actions"
+						- Jez Humble, Continuous Delivery.
+
+

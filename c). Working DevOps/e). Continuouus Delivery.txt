@@ -1,0 +1,59 @@
+Continuous Delivery:
+
+" Continuous Delivery is a software development discipline where you build software in such a way that the software can be released to production at any time."
+
+										- martin Fowler.
+
+Release Production at any time:
+
+> The master branch should always be ready to deploy.
+
+> You need a way to know if something will "break the build"
+
+> Deliver every change to a production like environment.
+
+CI/CD Pipeline:
+
+Automated gateways that create a pipeline of checks:
+
+> Unit Testing
+
+> Code quality checks.
+
+> Integration testing.
+
+> Security testing.
+
+> Vulnerablity Scanning.
+
+> Package Signing.
+
+A CI/CD Pipeline needs:
+
+> A code Repository.
+
+> A build Server
+
+> An artifact repository.
+
+> Automatic Configuration & Deployment.
+
+Five Key Principles:
+
+> Build quality in
+
+> Work in small batches.
+
+> Computers perform repetitive tasks, people solve provblems.
+
+> Retentlessly pursue continuous improvement.
+
+> Everyone is responsible.
+
+How DevOps Manages Risk:
+
+> Deployment is a King.
+
+> Deployment is decoupled from activation.
+
+> Deployment is not "one size fits all"

@@ -1,0 +1,53 @@
+Working DevOps:
+
+> Culture of teaming and collaboration.
+
+> Agile Development as a shared discipline.
+
+> Automate retentlessly.
+
+> Push smaller releases 
+
+Taylorism:
+
+> Adoption of Command and control management 
+
+> Organizations divided into functional silos.
+
+> Decision making is separated from work
+
+
+Abandon Command and control
+
+> Command and control is not Agile.
+
+> Stop working in Silos.
+
+> Let your people amaze you.
+
+Development wants innovation.
+
+Operations wants stability.
+
+Overviews of Development:
+
+> Development teams throw dead cats over the wall. 
+
+> Manually implemented changes 
+
+> Lack of back-out plans.
+
+> Lack of testing.
+
+> Environments that don't look like production.
+
+
+
+
+
+
+
+
+
+
+

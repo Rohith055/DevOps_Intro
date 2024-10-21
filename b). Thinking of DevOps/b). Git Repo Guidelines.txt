@@ -1,0 +1,44 @@
+Git Repo Guidelines.
+
+> Create a repository on git separately for every component.
+
+> Create a new branch for every issue.
+
+> Use pull request to merge to mater branch.
+
+> Every pull request is an opportunity to review the code.
+
+Branch Workflow:
+
+Repo       -  remote branch
+
+local repo - Local branch
+
+ Workign on small batches would minimizes the resource wastage, eficient work will be received.
+
+ Measuring the size of the batches,
+
+> Feature size supports frequent releases.
+
+> Features should be completed in a sprint.
+
+> Features are a step toward a goal, so keep as much as small.
+
+MVP - Minimum Viable Product:
+
+> MVP is not "Phase 1" of a project.
+
+> It is an experiment to test your hypothesis.
+
+> It is focused on learning, not delivery.
+
+Basically it iteratively work to build a product with more steps and analysis of their own product.
+
+Giving the customer's main need is the most important thing in the delivery.
+
+> MVP is tool for learning.
+
+> Failure leads to understanding.
+
+
+

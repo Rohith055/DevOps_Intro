@@ -1,0 +1,54 @@
+Scoial Coding:
+
+> open Source Practice
+
+> All repositories are public
+
+> Everyone os encouraged to contribute
+
+> Anarchy is controlled via pull request.
+
+Code reuse Dilemma:
+
+> Code has 80% of what you have need but 20% is missing.
+
+> How does you add 20% missing features ?
+
+> Make a feature request and depend on another team ?
+
+Social Coding Solution
+
+> Discuss with the repo owner 
+
+> Agree to develop it 
+
+> Open an issue and assign it to yourself.
+
+> Fork the code and make your changes.
+
+> Issue a pull request to review and merge back.
+
+This is how a open source works.
+
+Pair Programming:
+
+> Two programmers on one workstation.
+
+> The pilot is sailing the ship and the navigator is montoring the pilot whether he  is going in the correct flow or not. 
+
+> Every twenty hrs they can switch their roles.
+
+benefits
+
+> Higher code quality
+
+> Defects are foound to be earlier. 
+
+> Lower maintenance costs
+
+> Skills Transfer
+
+> every lines on the code can be monitored by one or more person.
+
+> Broder understanding of the codebase.
+

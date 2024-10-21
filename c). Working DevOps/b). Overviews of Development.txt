@@ -1,0 +1,48 @@
+Overviews of Development:
+
+> Development teams throw dead cats over the wall. 
+
+> Manually implemented changes 
+
+> Lack of back-out plans.
+
+> Lack of testing.
+
+> Environments that don't look like production.
+
+
+Operational view of Development:
+
+> Development teams throw dead cats over the wall.
+
+> Manually implemented changes 
+
+> Lack of back-out plans
+
+> Lack of testing.
+
+> Environments that don't look like production.
+
+Deployment view of operations:
+
+> All-or-nothing Changes.
+
+> Change windows in the dead of night.
+
+> Implemented by people furthest away from the application
+
+> Ops just cuts and pastes from "runbooks"
+
+Required DevOps Behaviours 
+
+> Shared ownership and high collaborations.
+
+> Risk Management by embracing change.
+
+> Ephimeral infrastructure as code.
+
+> Automated self-service.
+
+> feedback loops and data driven responses.
+
+

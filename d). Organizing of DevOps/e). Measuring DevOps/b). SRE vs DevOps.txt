@@ -1,0 +1,38 @@
+Site Reliablity Engineering:
+
+" What happens when a software is tasked with what used to be called operations."
+										- Ben Treynor Sloss.
+
+Goal: Automate yourself out of a job.
+
+Tenets of SRE:
+
+> Hire only Software engineers.
+
+> Site reliablity engineers work on reducing toil through automation.
+
+> SRE teams are separate from development teams.
+
+> Stability is controlled through error budgets.
+
+> Developers rotate through operations
+
+Team Differences:
+
+> SRE maintains separate development and operations teams, but it does have one staffing pool.
+
+> DevOps on the other hand breaks down the silos into one team with one common business objective.
+
+Commonality:
+
+Both seek to make both Dev and Ops work visible to each other.
+
+Both require a blameless culture.
+
+This objective of both is to deploy software faster with stability.
+
+DevOps + SRE 
+
+> SRE maintains the Infrastructure.
+
+> DevOps uses the infrastructure to maintain their applications.

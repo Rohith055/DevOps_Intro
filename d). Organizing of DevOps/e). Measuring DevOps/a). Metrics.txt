@@ -1,0 +1,65 @@
+ Metrics:
+
+ “Whether dealing with monkeys, rats, or human beings, it is hardly 
+controversial to state that most organisms seek information 
+concerning what activities are rewarded, and then seek to do (or at 
+least pretend to do) those things, often to the virtual exclusion of 
+activities not rewarded. The extent to which this occurs, of course, 
+will depend on the perceived attractiveness of the reward offered, 
+but neither operant nor expectancy theorists would quarrel with the 
+essence of this notion"
+
+									- Steven Kerr, The Ohio State University.
+
+Social Metrics:
+
+Who is leveraging the code you are building?
+Whose code are you leveraging?
+
+ DevOps Metrics:
+
+> A baseline provides a concrete number for comparision sa you implement your DevOps changes.
+
+> Metric goals allow you to reason about the success of your progress.
+
+DevOps Changes the Objective:
+
+> Old school is focused on mean time to failure(MTTF)
+
+> DevOps is focused on mean time to recovery (MTTR)
+
+vanity Metrics:
+
+> We had 15,000 daily hits to our webapp.
+
+> Now what? (What does a hit represent)
+
+> What actions drove those visitors to you?
+
+> Whick actions to take next?
+
+Actionable Metrics:
+
+> Reduce time to market 
+
+> Increase overall availablity.
+
+> Reduce time to deploy.
+
+> defects detected before production.
+
+> More efficient use of infrastructure.
+
+> Quicker performance feedback.
+
+Top Four Actionable Metrics
+
+> Mean Lead Time.
+
+> Release Frequency 
+
+> Change Failure Rate
+
+> Mean Time To Recovery
+
+

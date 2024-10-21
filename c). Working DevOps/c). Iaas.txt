@@ -1,0 +1,43 @@
+Infrastructure as a code:
+
+> Described an executable textual format.
+
+> Configure using that description.
+
+> Configuration management systems make this possible.
+
+> Never perform configurations manually.
+
+> Use version Control.
+
+Ephimerable immutable infrastructure:
+
+> Server drift is a major source of failure.
+
+> Serveers are cattle not pets.
+
+> Infrastructure is transistent.
+
+> Build through parralel infrastructure.
+
+Immutable delivery via containers:
+
+> Applications are packed in containers.
+
+> Same containers that runs in prduction can be run locally.
+
+> Dependcies are containered.
+
+> No variance limits sidel-effects.
+
+> Rolling updates with immediate roll-back.
+
+Immutable way of working:
+
+> You never make changes in the running containers.
+
+> You make changes to the image.
+
+> Then redeploy the new container.
+
+> keep images up to date.

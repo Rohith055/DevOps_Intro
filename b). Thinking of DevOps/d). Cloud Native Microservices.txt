@@ -1,0 +1,44 @@
+Cloud Native Micro Services:
+
+> Twelve-Factor App.
+
+> A collection of stateless microservices.
+
+> Each services maintains its own database.
+
+>  Resilence through horizontal scaling.
+
+> Failing instances are killed and respawned.
+
+> Continuous Delivery of Services.
+
+" The microservice archietectural style is an approach to developing a single application as a suite of small services, each runnning in its own process and communicating with light weight mechanisms, often an HTTP resource API. These services are built around business capablities and independently deployable by fully automated deployment machinery."
+
+- Martin Fowler and James Lewis.
+
+
+Design for failure:
+
+> How to avoid -> How to identify and what to do about it.
+
+> Operational concern -> Developer concern.
+
+> Plan to be throtteled
+
+> Plan to retry 
+
+> Degrade Gracefully.
+
+> Cache when appropirate.
+
+
+Retry Patterns
+
+Circuit Breaker Pattern
+
+Bulk head pattern
+
+
+
+
+
